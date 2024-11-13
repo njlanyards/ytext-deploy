@@ -15,3 +15,7 @@ A modern web application built with Next.js that provides various tools to enhan
 - **Styling**: Tailwind CSS
 - **UI Components**: Radix UI
 - **Animations**: Framer Motion
+
+## 📄 License
+
+This project is licensed under the MIT License.
